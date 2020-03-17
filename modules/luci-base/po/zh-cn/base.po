@@ -4088,5 +4088,9 @@ msgstr "在/var/run/sqm/${Interface_name}.debug.log下为此SQM实例创建日�
 msgid "MWAN Interfaces"
 msgstr "MWAN 接口"
 
+msgid "Model"
+msgstr "主机型号"
+
+
 
 
