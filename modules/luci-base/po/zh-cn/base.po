@@ -4085,5 +4085,8 @@ msgstr "延迟命令等待运行，直到驱动程序联机。 仅在启动模�
 msgid "Create log file for this SQM instance under /var/run/sqm/${Interface_name}.debug.log. Make sure to delete log files manually."
 msgstr "在/var/run/sqm/${Interface_name}.debug.log下为此SQM实例创建日志文件。 确保手动删除日志文件。"
 
+msgid "MWAN Interfaces"
+msgstr "MWAN 接口"
+
 
 
