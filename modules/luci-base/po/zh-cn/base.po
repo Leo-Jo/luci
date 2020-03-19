@@ -4100,6 +4100,9 @@ msgstr "缓冲区大小"
 msgid "Buffer messages"
 msgstr "缓冲信息"
 
+msgid "Buffer time"
+msgstr "缓冲时间"
+
 
 
 
