@@ -4097,6 +4097,9 @@ msgstr "udpxy是UDP到HTTP的多播流量中继守护程序，您可以在此处
 msgid "Buffer size"
 msgstr "缓冲区大小"
 
+msgid "Buffer messages"
+msgstr "缓冲信息"
+
 
 
 
