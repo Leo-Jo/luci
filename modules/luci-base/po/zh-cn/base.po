@@ -4106,6 +4106,9 @@ msgstr "缓冲时间"
 msgid "Bind IP/Interface"
 msgstr "绑定IP /接口"
 
+msgid "Source IP/Interface"
+msgstr "源IP /接口"
+
 
 
 
