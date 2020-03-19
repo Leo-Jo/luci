@@ -4094,6 +4094,10 @@ msgstr "主机型号"
 msgid "udpxy is a UDP-to-HTTP multicast traffic relay daemon, here you can configure the settings."
 msgstr "udpxy是UDP到HTTP的多播流量中继守护程序，您可以在此处配置设置。"
 
+msgid "Buffer size"
+msgstr "缓冲区大小"
+
+
 
 
 
