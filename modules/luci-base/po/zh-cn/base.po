@@ -4140,6 +4140,9 @@ msgid "For SSL protected blocklist sources you need a suitable SSL library, e.g.
 msgstr "对于受SSL保护的阻止列表来源，您需要合适的SSL库，例如“ libustream-ssl”或“内置”。"
 
 
+msgid "Overall Domains"
+msgstr "整体领域"
+
 
 
 
