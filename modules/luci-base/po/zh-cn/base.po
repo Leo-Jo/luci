@@ -4147,6 +4147,10 @@ msgid "To prevent OOM exceptions on low memory devices with less than 64 MB free
 msgstr "为防止可用内存少于64 MB的低内存设备出现OOM异常，请仅选择其中几个！"
 
 
+msgid "Caution:"
+msgstr "警告："
+
+
 
 
 
