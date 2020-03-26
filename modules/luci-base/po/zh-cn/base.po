@@ -4143,7 +4143,7 @@ msgstr "对于受SSL保护的阻止列表来源，您需要合适的SSL库，例
 msgid "Overall Domains"
 msgstr "整体领域"
 
-msgid "To prevent OOM exceptions on low memory devices with less than 64 MB free RAM, please only select a few of them!"
+msgid "Caution: To prevent OOM exceptions on low memory devices with less than 64 MB free RAM, please only select a few of them!"
 msgstr "为防止可用内存少于64 MB的低内存设备出现OOM异常，请仅选择其中几个！"
 
 
