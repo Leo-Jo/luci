@@ -4118,6 +4118,9 @@ msgstr "增量"
 msgid "Notification"
 msgstr "通知"
 
+msgid "GFWList"
+msgstr "GFW列表"
+
 
 
 
