@@ -4171,7 +4171,7 @@ msgstr "您可以手动使用此限制性阻止列表，例如用于访客wifi�
 msgid "Flush DNS Cache after adblock processing."
 msgstr "adblock处理后刷新DNS缓存。"
 
-msgid "Send notification emails in case of a processing error or if domain count is &le; 0."
+msgid "Send notification emails in case of a processing error or if domain count is ≤ 0."
 msgstr "如果发生处理错误或域计数≤0，请发送通知电子邮件。"
 
 msgid "Please note: this needs additional 'msmtp' package installation and setup."
