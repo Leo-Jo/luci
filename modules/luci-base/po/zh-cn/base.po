@@ -4186,14 +4186,10 @@ msgstr "监狱的黑名单创建"
 msgid "Flush DNS Cache"
 msgstr "刷新DNS缓存"
 
-msgid "Caution:"
-msgstr "警告："
+msgid "Email Notification"
+msgstr "电子邮件通知"
 
-msgid "Caution:"
-msgstr "警告："
 
-msgid "Caution:"
-msgstr "警告："
 
 
 
