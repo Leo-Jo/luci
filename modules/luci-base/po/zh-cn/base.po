@@ -4130,6 +4130,10 @@ msgstr "查看在线文档"
 msgid "Download Utility"
 msgstr "下载工具"
 
+msgid "List of supported and fully pre-configured download utilities."
+msgstr "受支持和完全预先配置的下载实用程序列表。"
+
+
 
 
 
