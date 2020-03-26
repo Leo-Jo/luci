@@ -4124,6 +4124,10 @@ msgstr "GFW列表"
 msgid "For further information"
 msgstr "了解更多信息"
 
+msgid "check the online documentation"
+msgstr "查看在线文档"
+
+
 
 
 
