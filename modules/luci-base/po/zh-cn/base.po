@@ -4133,6 +4133,9 @@ msgstr "下载工具"
 msgid "List of supported and fully pre-configured download utilities."
 msgstr "受支持和完全预先配置的下载实用程序列表。"
 
+msgid "List of available network interfaces. Usually the startup will be triggered by the 'wan' interface."
+msgstr "可用网络接口列表。通常，启动将由“ wan”界面触发。"
+
 
 
 
