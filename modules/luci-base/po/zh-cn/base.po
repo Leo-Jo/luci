@@ -4177,8 +4177,8 @@ msgstr "如果发生处理错误或域计数≤0，请发送通知电子邮件�
 msgid "Please note: this needs additional 'msmtp' package installation and setup."
 msgstr "请注意：这需要额外的“ msmtp”软件包安装和设置。"
 
-msgid "Caution:"
-msgstr "警告："
+msgid "Max. Download Queue"
+msgstr "最高下载队列"
 
 msgid "Caution:"
 msgstr "警告："
