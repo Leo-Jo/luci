@@ -4180,7 +4180,7 @@ msgstr "请注意：这需要额外的“ msmtp”软件包安装和设置。"
 msgid "Max. Download Queue"
 msgstr "最高下载队列"
 
-msgid "Jail' Blocklist Creation"
+msgid "'Jail' Blocklist Creation"
 msgstr "监狱的黑名单创建"
 
 msgid "Flush DNS Cache"
