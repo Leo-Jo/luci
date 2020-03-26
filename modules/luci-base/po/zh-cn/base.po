@@ -4121,6 +4121,9 @@ msgstr "通知"
 msgid "GFWList"
 msgstr "GFW列表"
 
+msgid "For further information"
+msgstr "了解更多信息"
+
 
 
 
