@@ -4121,11 +4121,8 @@ msgstr "通知"
 msgid "GFWList"
 msgstr "GFW列表"
 
-msgid "For further information"
-msgstr "了解更多信息"
-
-msgid "check the online documentation"
-msgstr "查看在线文档"
+msgid "For further information check the online documentation"
+msgstr "有关更多信息，请参见在线文档"
 
 msgid "Download Utility"
 msgstr "下载工具"
