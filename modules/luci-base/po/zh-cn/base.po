@@ -4098,7 +4098,7 @@ msgid "Buffer size"
 msgstr "缓冲区大小"
 
 msgid "Buffer messages"
-msgstr "缓冲信息"
+msgstr "缓冲区消息"
 
 msgid "Buffer time"
 msgstr "缓冲时间"
@@ -4113,7 +4113,7 @@ msgid "Multicast subscription renew"
 msgstr "组播订阅续订"
 
 msgid "Nice increment"
-msgstr "增量"
+msgstr "优先级增量"
 
 msgid "Notification"
 msgstr "通知"
