@@ -4184,6 +4184,10 @@ msgstr "刷新DNS缓存"
 msgid "Email Notification"
 msgstr "电子邮件通知"
 
+msgid "Respawn"
+msgstr "刷新"
+
+
 
 
 
