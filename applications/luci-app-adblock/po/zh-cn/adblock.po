@@ -21,16 +21,6 @@ msgstr ""
 msgid "-------"
 msgstr "-------"
 
-#: applications/luci-app-adblock/htdocs/luci-static/resources/view/adblock/dnsreport.js:256
-msgid "Action"
-msgstr "动作"
-
-#: applications/luci-app-adblock/htdocs/luci-static/resources/view/adblock/overview.js:214
-msgid "Active Sources"
-msgstr ""
-
-#: applications/luci-app-adblock/luasrc/controller/adblock.lua:6
-#: applications/luci-app-adblock/root/usr/share/luci/menu.d/luci-app-adblock.json:3
 msgid "Adblock"
 msgstr "广告拦截"
 
@@ -56,7 +46,7 @@ msgid "Backup Directory"
 msgstr "备份目录"
 
 msgid "Backup Mode"
-msgstr ""
+msgstr "备份模式"
 
 msgid "Blocklist Sources"
 msgstr "拦截列表来源"
@@ -64,12 +54,12 @@ msgstr "拦截列表来源"
 msgid ""
 "Builds an additional 'Jail' list (/tmp/adb_list.jail) to block access to all "
 "domains except those listed in the whitelist file.<br />"
-msgstr ""
+msgstr "建立一个额外的“监狱”列表（/tmp/adb_list.jail），以阻止对所有“ 56 “除白名单文件中列出的域之外的域。<br />"
 
 msgid ""
 "Caution: To prevent OOM exceptions on low memory devices with less than 64 "
 "MB free RAM, please do not select more than five blocklist sources!"
-msgstr ""
+msgstr "注意：为防止内存不足64“的低内存设备出现OOM异常 61 “ MB可用RAM，请不要选择超过五个阻止列表来源！"
 
 msgid ""
 "Choose 'none' to disable automatic startups, 'timed' to use a classic "
@@ -88,7 +78,7 @@ msgstr "Adblock 配置工具，通过 DNS 来拦截广告和阻止域名。"
 msgid ""
 "Create compressed blocklist backups, they will be used in case of download "
 "errors or during startup in backup mode."
-msgstr ""
+msgstr "创建压缩的阻止列表备份，这些备份将在下载“ 80 “错误或在备份模式下启动期间。"
 
 msgid "DNS Backend (DNS Directory)"
 msgstr "DNS 后端（DNS 目录）"
@@ -105,7 +95,7 @@ msgid ""
 msgstr "启动期间不要自动更新 blocklists，改用 blocklists 的备份。"
 
 msgid "Download Utility"
-msgstr ""
+msgstr "下载工具"
 
 msgid "Download Utility (SSL Library)"
 msgstr "下载实用程序（SSL 库）"
@@ -114,7 +104,7 @@ msgid ""
 "During opkg package installation use the '--force-maintainer' option to "
 "overwrite the pre-existing config file or download a fresh default config "
 "from <a href=\"%s\" target=\"_blank\">here</a>"
-msgstr ""
+msgstr "在opkg软件包安装过程中，将“ --force-maintainer”选项设置为“ 105 “覆盖现有的配置文件或下载新的默认配置” 106 “来自<​​a href=\"%s\" target=\"_blank\">此处</a>"
 
 msgid "Edit Blacklist"
 msgstr "编辑黑名单"
@@ -126,10 +116,10 @@ msgid "Edit Whitelist"
 msgstr "编辑白名单"
 
 msgid "Email Notification"
-msgstr ""
+msgstr "电子邮件通知"
 
 msgid "Email Notification Count"
-msgstr ""
+msgstr "电子邮件通知计数"
 
 msgid "Enable Adblock"
 msgstr "启用 Adblock"
@@ -152,25 +142,25 @@ msgid "Extra Options"
 msgstr "额外选项"
 
 msgid "Flush DNS Cache"
-msgstr ""
+msgstr "刷新DNS缓存"
 
 msgid "Flush DNS Cache after adblock processing."
-msgstr ""
+msgstr "adblock处理后刷新DNS缓存。"
 
 msgid ""
 "For SSL protected blocklist sources you need a suitable SSL library, e.g. "
 "'libustream-ssl' or 'built-in'."
-msgstr ""
+msgstr "对于受SSL保护的阻止列表来源，您需要合适的SSL库，例如” 152 “'libustream-ssl”或“内置”。"
 
 msgid ""
 "For further information <a href=\"%s\" target=\"_blank\">check the online "
 "documentation</a>"
-msgstr ""
+msgstr "有关更多信息，请<a href=\"%s\" target=\"_blank\">查看在线“ 157 “文档</a>"
 
 msgid ""
 "For further performance improvements you can raise this value, e.g. '8' or "
 "'16' should be safe."
-msgstr ""
+msgstr "为进一步提高性能，您可以提高此值，例如'8'或“ 162 “'16'应该是安全的"
 
 msgid "Force Local DNS"
 msgstr "强制本地 DNS"
@@ -179,7 +169,7 @@ msgid "Force Overall Sort"
 msgstr "强制整体排序"
 
 msgid "Full path to the whitelist file."
-msgstr ""
+msgstr "白名单文件的完整路径。"
 
 msgid "Input file not found, please check your configuration."
 msgstr "输入文件未找到，请检查您的配置。"
@@ -198,7 +188,7 @@ msgstr "列表 URL 和 Shallalist 类别选择可在“高级”选项卡中配�
 msgid ""
 "List of available network interfaces. Usually the startup will be triggered "
 "by the 'wan' interface.<br />"
-msgstr ""
+msgstr "可用网络接口列表。通常启动会被触发“ 190 “通过“ wan”界面。<br />"
 
 msgid ""
 "List of supported DNS backends with their default list export directory.<br /"
@@ -206,13 +196,13 @@ msgid ""
 msgstr "支持的 DNS 后端列表及其默认列表导出目录。<br />"
 
 msgid "List of supported and fully pre-configured download utilities."
-msgstr ""
+msgstr "受支持和完全预先配置的下载实用程序列表"
 
 msgid "Loading"
 msgstr "加载中"
 
 msgid "Max. Download Queue"
-msgstr ""
+msgstr "最高下载队列"
 
 msgid "No"
 msgstr "否"
@@ -222,7 +212,7 @@ msgid ""
 msgstr "在默认设置并不适合您时的额外选项。"
 
 msgid "Overall Domains"
-msgstr ""
+msgstr "整体领域"
 
 msgid "Overview"
 msgstr "总览"
@@ -239,10 +229,10 @@ msgstr "请在终端会话中直接编辑此文件。"
 
 msgid ""
 "Please note: this needs additional 'msmtp' package installation and setup."
-msgstr ""
+msgstr "请注意：这需要额外的“ msmtp”软件包安装和设置"
 
 msgid "Please update your adblock config file to use this package.<br />"
-msgstr ""
+msgstr "请更新您的adblock配置文件以使用此软件包。<br />"
 
 msgid "Query"
 msgstr "查询"
@@ -253,7 +243,7 @@ msgstr "查询域"
 msgid ""
 "Raise the minimum email notification count, to get emails if the overall "
 "count is less or equal to the given limit (default 0),<br />"
-msgstr ""
+msgstr "提高最低电子邮件通知数量，以获取电子邮件，如果总体“ 245 “计数小于或等于给定的限制（默认为0），<br />"
 
 msgid "Redirect all DNS queries from 'lan' zone to the local resolver."
 msgstr "将所有 DNS 查询从“lan”区域重定向到本地解析器。"
