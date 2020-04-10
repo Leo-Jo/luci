@@ -130,7 +130,7 @@ msgstr "启用 Blocklist 备份"
 msgid ""
 "Enable memory intense overall sort / duplicate removal on low memory devices "
 "(&lt; 64 MB free RAM)"
-msgstr ""
+msgstr "在低内存设备上启用内存密集型整体排序/复制删除（<64 MB可用RAM）"
 
 msgid "Enable verbose debug logging in case of any processing error."
 msgstr "在出现任何处理错误的情况下启用详细调试日志记录。"
