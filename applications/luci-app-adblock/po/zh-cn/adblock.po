@@ -89,6 +89,9 @@ msgstr "DNS 目录"
 msgid "Description"
 msgstr "描述"
 
+msgid "<b>Caution:</b> To prevent OOM exceptions on low memory devices with less than 64 MB free RAM, please only select a few of them!"
+msgstr "警告:为防止可用内存少于64 MB的低内存设备出现OOM异常，请仅选择其中几个!"
+
 msgid ""
 "Do not automatically update blocklists during startup, use blocklist backups "
 "instead."
