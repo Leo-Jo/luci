@@ -4190,6 +4190,9 @@ msgstr "电子邮件通知"
 msgid "Respawn"
 msgstr "刷新"
 
+msgid "GFWlist"
+msgstr "GFW列表"
+
 
 
 
