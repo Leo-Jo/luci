@@ -2983,6 +2983,9 @@ msgstr "源地址"
 msgid "Source routing"
 msgstr "源路由"
 
+msgid "Internet"
+msgstr "互联网"
+
 msgid "Specifies the directory the device is attached to"
 msgstr "指定设备的挂载目录"
 
