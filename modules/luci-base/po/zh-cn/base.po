@@ -4193,6 +4193,9 @@ msgstr "刷新"
 msgid "GFWlist"
 msgstr "GFW列表"
 
+msgid "LOG"
+msgstr "日志"
+
 
 
 
