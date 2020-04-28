@@ -385,6 +385,7 @@ https://github.com/pure-css/pure/blob/master/LICENSE.md
     overflow: hidden;
     letter-spacing: normal;
     transition: all 0.2s;
+   
 }
 .cbi-section-table-row:hover{
     background: #EE82EE;
@@ -592,7 +593,7 @@ footer.mobile-hide{
     bottom: 0;
     right: 0;
     box-shadow: 0 0 2rem 0 rgba(136,152,170,.3);
-    color: #003371;
+    color: #1685a9;
     background: #f4;
     z-index: 5;
     box-sizing: border-box;
