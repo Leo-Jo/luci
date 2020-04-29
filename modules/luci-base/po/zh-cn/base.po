@@ -4196,6 +4196,10 @@ msgstr "GFW列表"
 msgid "LOG"
 msgstr "日志"
 
+msgid "VPN Client"
+msgstr "VPN 客户端"
+
+
 
 
 
