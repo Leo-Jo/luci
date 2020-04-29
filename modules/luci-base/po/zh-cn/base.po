@@ -4199,6 +4199,10 @@ msgstr "日志"
 msgid "VPN Client"
 msgstr "VPN 客户端"
 
+msgid "VPN Bridge"
+msgstr "VPN 网桥"
+
+
 
 
 
